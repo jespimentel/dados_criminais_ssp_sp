@@ -7,7 +7,7 @@ A SSP/SP está disponibilizando para toda a população os dados criminais georr
 
 Trata-se de uma iniciativa muito importante, que fomentará análises independentes, como a que ora se apresenta, e a participação da sociedade na formulação de políticas de segurança pública.
 
-![Reprodução do site da SPP](img/print_ssp.png)
+![Reprodução do site da SPP](./img/print_ssp.png)
 
 
 Este projeto realiza a análise de dados criminais, utilizando bibliotecas como `pandas`, `ipywidgets` e `folium` para visualização de dados em mapas interativos.
