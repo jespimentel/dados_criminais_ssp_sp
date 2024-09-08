@@ -1,4 +1,3 @@
-## dados_criminais_ssp_sp
 # Análise dos dados criminais georreferenciados da SSP/SP
 
 ## Introdução
@@ -10,9 +9,9 @@ Trata-se de uma iniciativa muito importante, que fomentará análises independen
 ![Reprodução do site da SPP](./img/print_ssp.png)
 
 
-Este projeto realiza a análise de dados criminais, utilizando bibliotecas como `pandas`, `ipywidgets` e `folium` para visualização de dados em mapas interativos.
+Este projeto realiza a análise de dados criminais, utilizando bibliotecas como `pandas`, `ipywidgets` e `folium` para visualização desses dados em mapa interativo.
 
-O uso do Colab facilita a reprodução.
+O uso do Colab facilita a reprodução e a divulgação dessa ideia.
 
 ## Descrição
 
